@@ -1,0 +1,122 @@
+body {
+
+color: #767676;
+font-family: cereal ;
+font-weight: lighter;
+background-color: white;
+
+}
+
+h1, h2, h3 {
+	font-family: cereal;
+
+}
+h1 {
+	color: #FF5A5F;
+	
+}
+
+h2 {
+	color: #00A699;
+	font-weight: bold;
+
+}
+
+a { 
+   text-decoration: none; 
+   color: #484848;
+   font-weight: bold;
+   transform: color 0.3s ease;
+  }
+
+a:hover {
+	color: #FC642D;
+}
+
+
+
+
+#logo{
+	border-radius: 50%;
+	width: 150px;
+	border: 2px solid #FC642D;
+
+}
+
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+
+}
+
+.card-white{
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	border: 2px ridge #FC642D;
+	
+}
+
+#btn-orange{
+	background-color: #FF5A5F;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+#btn-orange:hover {
+	background-color:#FC642D;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: #767676;
+}
+
+.list-inline i:hover {
+	font-size: 50px;
+	color: #484848;
+}
+
+#intro p {
+	margin-bottom: 40px ;
+}
+
+#top {
+	float: left;
+
+}
+
+.card-transparent{
+	background-color: white;
+	padding: 40px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.tenor-gif-embed {
+	width: 100px;
+	height: 100px;
+	border-radius: 4px;
+}
+
+#burger {
+	background-image: url(images/Food.png);
+	opacity: 1
+}
+
+
